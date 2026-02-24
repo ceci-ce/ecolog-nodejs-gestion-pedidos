@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "dayjs": "^1.11.19"
-  }
+  },
+  "name": "ecolog-nodejs-gestion-pedidos",
+  "version": "1.0.0",
+  "description": "Descripción:",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceci-ce/ecolog-nodejs-gestion-pedidos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceci-ce/ecolog-nodejs-gestion-pedidos/issues"
+  },
+  "homepage": "https://github.com/ceci-ce/ecolog-nodejs-gestion-pedidos#readme"
 }
