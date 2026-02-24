@@ -1,12 +1,14 @@
 {
   "dependencies": {
-    "dayjs": "^1.11.19"
+    "dayjs": "^1.11.19",
+    "express": "^5.2.1",
+    "file": "^0.2.2",
+    "system": "^2.0.1"
   },
   "name": "ecolog-nodejs-gestion-pedidos",
   "version": "1.0.0",
   "description": "Descripción:",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
