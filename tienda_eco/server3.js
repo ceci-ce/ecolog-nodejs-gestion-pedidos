@@ -10,6 +10,8 @@ const PORT = 3000;
 // ==========================================
 // Esto le dice a Express: "Si te envían un JSON oculto en el Body, tradúcelo para que yo pueda leerlo en req.body"
 app.use(express.json());
+// NUEVO! Le decimos a Express que comparta publicamente los archivos que estén dentro de la carpeta "public"
+app.use(express.static('public'));
 
 // ==========================================
 // 1. Configuración Fija
